@@ -1,0 +1,5 @@
+# Ignore everything in the pre-trained-model directories. That will need to be downloaded
+pre-trained-models/**
+
+# Ignore .record files as they typically have large file size
+*.record
