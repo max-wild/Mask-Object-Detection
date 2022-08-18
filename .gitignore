@@ -6,3 +6,11 @@ pre-trained-models/**
 
 # Ignore .record files as they typically have large file size
 *.record
+models/my_ssd_resnet50_v1_fpn/old_bad_output.txt
+exported-models/my_model/saved_model/variables/variables.index
+exported-models/my_model/saved_model/variables/variables.data-00000-of-00001
+exported-models/my_model/saved_model/saved_model.pb
+exported-models/my_model/pipeline.config
+exported-models/my_model/checkpoint/ckpt-0.index
+exported-models/my_model/checkpoint/ckpt-0.data-00000-of-00001
+exported-models/my_model/checkpoint/checkpoint
