@@ -1,9 +1,9 @@
 
 # Detecting Face Masks in Images
 
-This program trains a neural network to detect the **use of facemasks in images**. 850 images are used for testing and training with the Tensorflow Python package to train a neural network on a python notebook---which can be easily rn on any machine. 
+This program trains a neural network to detect the **use of facemasks in images**. 850 images are used for testing and training with the Tensorflow Python package to train a neural network on a python notebook---which can be easily run on any machine. 
 
-Using the **Jupyter Runtime** hosted on **Google Colab**, this project can *detect faces in images*, generating labels such as: 
+Using the **Jupyter Runtime** hosted on **Google Colab**, this project can generate labels on face images such as: 
 
 <p float="left" align="middle" display="flex" align-items="center">
 	 <img src="https://github.com/max-wild/Mask-Object-Detection/raw/main/products/detect3.png" width="32%"/>
