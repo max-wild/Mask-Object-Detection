@@ -49,4 +49,5 @@ After that, model_main_tf2.py should be ran to train the model alongside this in
 At the end, the user can load in their own images through Colab to test the efficiency of the model.
 
 Cheers!
+
 Max
